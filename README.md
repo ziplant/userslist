@@ -1,4 +1,4 @@
 # userslist
 
 ### demo
-https://ziplant.github.io/userslist/dist/index.html
+https://ziplant.github.io/userslist/dist
